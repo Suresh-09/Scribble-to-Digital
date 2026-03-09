@@ -1,1 +1,6 @@
-# Scribble-to-Digital
+streamlit
+opencv-python
+easyocr
+pillow
+numpy
+google-generativeai
